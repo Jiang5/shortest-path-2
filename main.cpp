@@ -1,4 +1,3 @@
-//"auto" was used, so please use "g++ -std=c++11 -g -o a main.cpp  to compile" 
 #include <iostream>
 #include <fstream>
 #include <vector>
